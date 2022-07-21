@@ -1,0 +1,54 @@
+body{
+    background-color: aquamarine;
+    font-size: 0px;
+}
+.style {
+    background-color: rgb(223, 250, 148);
+    border: 3px solid green;
+    margin: 10px 0;
+    font-size: 15px;
+}
+header{
+    text-align: left;
+    padding-left: 15px;
+}
+nav{ 
+    display: inline-block;
+    background-color: rgb(223, 250, 148);
+    border: 3px solid green;
+    margin: 10px 0;
+    margin-right: 18px;
+    font-size: 15px;
+    padding: 24% 6%;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+h4{
+    text-align: left;
+    vertical-align: top;
+    padding-left: 10px;
+}
+
+main{
+    display: inline-block;
+    width: 80%;
+    box-sizing: border-box;
+}
+
+section{
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10% 0;
+}
+article{
+    text-align: center;
+    box-sizing: border-box;
+    padding: 25% 0;
+}
+footer{
+    text-align: center;
+    padding: 0 25px;
+}
+
+

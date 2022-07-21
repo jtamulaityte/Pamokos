@@ -1,0 +1,25 @@
+body{
+    background-color:white;
+    font-size: 0;
+}
+.text-size-visible {
+    font-size: 15px;
+}
+.text-middle {
+    text-align:  center;
+}
+h1{
+    text-align: left;
+}
+
+p{
+    text-align: left;
+}
+.box{
+    display: inline-block;
+    background-color: white;
+    text-align: left;
+    width: 50%;
+    font-size: 15px;
+    vertical-align: top;
+}
